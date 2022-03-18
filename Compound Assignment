@@ -1,0 +1,47 @@
+// Compound Assignment with Augmented Addition
+
+var a = 5;
+var b = 10;
+var c = 15;
+
+// Modifying code below this line
+
+a += 15;
+b += 2;
+c += 10;
+
+// Compound Assignments with Augmented Subtraction
+
+var a = 2;
+var b = 4;
+var c = 6;
+
+// Modifying code below this line
+
+a -= 1;
+b -= 3;
+c -= 6;
+
+// Compound Assignment with Augmented Multiplication
+
+var a = 3;
+var b = 4;
+var c = 2.2;
+
+// Modifying code below this line
+
+a *= 1;
+b *= 4;
+c *= 6;
+
+// Compound Assignment with Augmented Division
+
+var a = 50;
+var b = 110;
+var c = 88;
+
+// Modifying code below this line
+
+a /= 2;
+b /= 5;
+c /= 11;
