@@ -1,0 +1,22 @@
+/* Data Types:
+undefined = hasn't defined,
+null = nothing or value is 0,
+boolean = True or False,
+string = text,
+number = is a number,
+symbol = special characters,
+and object = can store a lot of different key values
+*/
+
+// There're 3 ways to declare the variable
+
+var myName = "Khadeeja"
+// "var" will be used throughout the program
+
+myName = 8
+
+let ourName = "Khadeeja"
+// "let" will only be used within the scope where you use it
+
+const pi = 3.14
+// "const" is an variable that can never be changed
