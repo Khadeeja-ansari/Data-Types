@@ -1,0 +1,11 @@
+// Declaration
+
+var this_isJavaScript;
+var caseSenstivityInVar;
+var titleCaseOver;
+
+// Assignments
+
+this_isJavaScript = 100;
+caseSenstivityInVar = "A String";
+titleCaseOver = 1000;
