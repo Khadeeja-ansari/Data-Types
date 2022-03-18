@@ -1,0 +1,61 @@
+// Adding numbers
+
+var sum = 10 + 10;
+console.log("Addition = ", sum)
+
+// Subtracting numbers
+
+var difference = 10 - 5;
+console.log("Subtraction = ", difference)
+
+// Multiplying numbers
+
+var product = 2 * 5;
+console.log("Multiplication = ", product)
+
+// Dividing numbers
+
+var quotient = 50 / 2;
+console.log("Division = ", quotient)
+
+// Increementing numbers
+
+var myVar = 5;
+
+// Only change code below this line
+
+myVar++;
+console.log("Increementing number = ", myVar++)
+
+// Decreementing numbers
+
+var myVar = 10;
+
+// Only change code below this line
+
+myVar--;
+console.log("Decreementing number = ", myVar--)
+
+// Decimal numbers
+
+var ourDecimal = 7.5;
+
+// Only change code below this line
+
+var myDecimal = 0.05
+
+// Multiplying decimal
+
+var product = 2.0 * 2.5;
+console.log("Multiplying decimals = ", product)
+
+// Dividing decimals
+
+var quotient = 4.5 / 1.2;
+console.log("Dividing decimals = ", quotient)
+
+// Findinga a remainder
+
+var remainder;
+remainder = 13 % 2;
+console.log("Remainder = ", remainder)
